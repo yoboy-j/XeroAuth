@@ -103,6 +103,6 @@ register:
 - Share your setup and configs in the showcase channel
 - Star the repo if you like it
   
-##Credits
+## Credits
 
 ©2026 Xero
